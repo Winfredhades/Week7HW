@@ -76,3 +76,4 @@ console.log(initializednameArray);
   }
 }
 //-----------------------------------------------------------------------------------------------------------------------
+//So now i am adding this comment for PR and i am saying i can explain line by line all of my codes.
